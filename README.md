@@ -1,4 +1,11 @@
-1. Pre-Requisites (Software Requirements)
+
+1. Pre-Requisite![Uploading Screenshot 2025-12-19 093646.png…]()
+2. <img width="1892" height="918" alt="Screenshot 2025-12-19 093700" src="https://github.com/user-attachments/assets/822830a6-a067-47f7-a312-721e8812fe65" />
+3.<img width="1779" height="890" alt="Screenshot 2025-12-19 093801" src="https://github.com/user-attachments/assets/4646a751-8e30-4d58-ae30-07626281e3a1" />
+
+4.<img width="1904" height="885" alt="Screenshot 2025-12-19 093814" src="https://github.com/user-attachments/assets/6334f919-218c-4fd3-9d1f-e9ced8cc58dd" />
+
+(Software Requirements)
 Before running the project, make sure the following software is installed on your system:
 1. Node.js (Version 18 or above)
 Download and install from: https://nodejs.org
